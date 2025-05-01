@@ -10,5 +10,6 @@
   "description": "",
   "dependencies": {
     "loadash": "^1.0.0"
-  }
+  },
+  "gitHead": "1dfd5098f4331f9f73b52cfbac66d91e1be7c734"
 }
