@@ -1,0 +1,15 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Run from utils\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "utils": "^1.0.0"
+  }
+}
