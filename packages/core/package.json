@@ -1,6 +1,6 @@
 {
   "name": "core",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Run from utils\""
@@ -10,7 +10,7 @@
   "description": "",
   "dependencies": {
     "loadash": "^1.0.0",
-    "utils": "^0.0.1"
+    "utils": "^1.0.1"
   },
   "gitHead": "1dfd5098f4331f9f73b52cfbac66d91e1be7c734"
 }
