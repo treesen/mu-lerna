@@ -11,7 +11,7 @@
   "dependencies": {
     "loadash": "^1.0.0"
   },
-  "gitHead": "6f3c39311efc8f35926a9f209cb6c7850d019b48",
+  "gitHead": "0933896454fc1d2cfca3947149b9f93a5bb942a1",
   "publishConfig": {
     "access": "public"
   }
